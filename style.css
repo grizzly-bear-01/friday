@@ -1,0 +1,36 @@
+h1,
+h5,
+h3 {
+    font-family: 'EB Garamond';
+
+}
+
+.site-title {
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.banner-img-1 {
+    background-image: url("./images/banner.png");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 8px;
+    opacity: 0.9;
+
+}
+
+#gradient {
+    background: linear-gradient(to bottom, #d3d0d0, #ffffff);
+    ;
+}
+
+.carousel-image {
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial;
+}
